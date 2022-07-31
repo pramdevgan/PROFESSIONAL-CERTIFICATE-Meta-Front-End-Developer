@@ -1,3 +1,4 @@
+![](https://i.imgur.com/mTYrjGD.png) <br>
 # **Knowledge Check - How the web works**
 
 ## **Question 1**
