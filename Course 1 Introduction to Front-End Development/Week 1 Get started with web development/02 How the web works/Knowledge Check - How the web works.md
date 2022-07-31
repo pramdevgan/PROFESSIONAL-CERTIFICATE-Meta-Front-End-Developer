@@ -2,8 +2,14 @@
 
 ## **Question 1**
 In the client/server model, your device is a ____________________.
-<input type="radio" name="rdo" id="yes" checked /> Client
-<input type="radio" name="rdo" id="yes" checked /> Server
+    <div class="switch">
+        <label for="yes">Client</label>
+        <label for="no">Server</label>
+        <span></span>
+    </div>
+<label for="yes">
+    <input type="radio" id="yes" name="subscribe" value="yup" checked />Yup
+</label>
 ## **Question 2**
 ## **Question 3**
 ## **Question 4**
